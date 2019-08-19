@@ -1,2 +1,2 @@
 # Titanic
- Prediction model to predict whether a passenger survived the shipwreck
+ Model to predict whether a passenger survived the shipwreck
